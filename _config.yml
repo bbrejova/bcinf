@@ -1,0 +1,12 @@
+theme: minima
+#remote_theme: jekyll/minima
+title: Bakalársky seminár 1-INF-911, 1-INF-920 2023/24
+
+exclude: [README.md]
+
+header_pages:
+  - index.md
+  - Pravidlá.md 
+  - Kontakt.md
+  - Návod.md
+  
