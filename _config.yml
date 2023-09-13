@@ -2,10 +2,6 @@ theme: minima
 #remote_theme: jekyll/minima
 title: Bakalársky seminár 1-INF-911, 1-INF-920 2023/24
 
-
-notes: >
-  **def** [du](/bcinf/DÚ1.md)
-
 exclude: [README.md]
 
 header_pages:
