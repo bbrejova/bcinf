@@ -1,1 +1,1 @@
-# bcinf
+See https://bbrejova.github.io/bcinf/

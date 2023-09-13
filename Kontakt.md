@@ -1,3 +1,7 @@
+---
+title: Kontakt
+---
+
 **Vyučujúci**
 
 - [doc. RNDr. Robert Lukoťka PhD.](http://new.dcs.fmph.uniba.sk/index.php/Zamestnanci?_method=detail&_key=alias&alias=RobertLukotka)
