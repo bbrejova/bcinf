@@ -52,11 +52,9 @@ title: Štúdium v poslednom ročníku
       - [Dátová
         veda](https://sluzby.fmph.uniba.sk/infolist/sk/2-INF-956.html)
 
-  - Pri prijímaní na magisterské štúdium sa berie do úvahy študijný
-    priemer z povinných a povinne voliteľných predmetov, vrátane
-    štátnic: https://fmph.uniba.sk/fileadmin/fmfi/studium/prijimacky/Podmienky_na_prijatie_na_mgr-phd_studium_23_24.pdf
-    Ak máte priemer nad 1,75, môžete byť pozvaní na prijímacie skúšky.
-  - Oficiálny študijný plán na aktuálny školský rok: https://sluzby.fmph.uniba.sk/infolist/sk/sp_mINF.html
+  - Pri [prijímaní na magisterské štúdium](https://fmph.uniba.sk/fileadmin/fmfi/studium/prijimacky/Podmienky_na_prijatie_na_mgr-phd_studium_23_24.pdf) sa berie do úvahy študijný
+    priemer z povinných a povinne voliteľných predmetov, vrátane štátnic. Ak máte priemer nad 1,75, môžete byť pozvaní na prijímacie skúšky.
+  - Oficiálny [študijný plán](./Štúdium_v_poslednom_ročníku.md) na aktuálny školský rok 
 
 ### Po skončení štúdia
 
@@ -71,17 +69,16 @@ title: Štúdium v poslednom ročníku
         získané vysokoškolské vzdelanie prvého stupňa alebo druhého
         stupňa v dennej forme štúdia"). V prípade neprijatia je však
         potrebné sa nahlásiť do 8 dní od vzniku povinnosti platiť si
-        poistné
-        [3](https://www.vszp.sk/poistenci/pre-studentov/poradna-studenta-zdravotnom-poisteni.html),
-        [4](https://www.dovera.sk/poistenec/potrebujem-poradit/co-nam-treba-oznamit/absolvent-vysokej-skoly)
+        poistné (viď. napr. 
+        [VšZP](https://www.vszp.sk/poistenci/pre-studentov/poradna-studenta-zdravotnom-poisteni.html),
+        [Dôvera](https://www.dovera.sk/poistenec/potrebujem-poradit/co-nam-treba-oznamit/absolvent-vysokej-skoly)0
 
 ### Ak sa vám nepodarí skončiť
 
-  - Školné pri prekročení štandardnej dĺžky štúdia 1000 EUR (2022/23)
-    [5](https://zona.fmph.uniba.sk/studenti-a-studium/poplatky/), ale
-    očakávajú sa zmeny vo vysokoškolskom zákone
+  - [Školné](https://zona.fmph.uniba.sk/studenti-a-studium/poplatky/) pri prekročení štandardnej dĺžky štúdia 1000 EUR (2023/24)
+    prepočítava s apodľa počtu potrebných kreditov
   - Možnosť požiadať o
-    [zníženie](https://zona.fmph.uniba.sk/fileadmin/fmfi/studium/poplatky/Skolne_znizenie_uznesenie_2021.pdf)
+    [zníženie](https://zona.fmph.uniba.sk/fileadmin/ruk/legislativa/2023/Vp_2023_18.pdf)
     (zdravotné dôvody, sociálna situácia, zahraničné pobyty, prerušenie
     štúdia a pod.)
   - Ak vám hrozí predlžovanie štúdia, poraďte sa na študijnom oddelení o
