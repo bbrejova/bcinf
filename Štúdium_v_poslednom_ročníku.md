@@ -71,7 +71,7 @@ title: Štúdium v poslednom ročníku
         potrebné sa nahlásiť do 8 dní od vzniku povinnosti platiť si
         poistné (viď. napr. 
         [VšZP](https://www.vszp.sk/poistenci/pre-studentov/poradna-studenta-zdravotnom-poisteni.html),
-        [Dôvera](https://www.dovera.sk/poistenec/potrebujem-poradit/co-nam-treba-oznamit/absolvent-vysokej-skoly)0
+        [Dôvera](https://www.dovera.sk/poistenec/potrebujem-poradit/co-nam-treba-oznamit/absolvent-vysokej-skoly))
 
 ### Ak sa vám nepodarí skončiť
 
