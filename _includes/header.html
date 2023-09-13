@@ -24,6 +24,7 @@
 </div>
 </nav>
 <div>
-ABC<br>
+  {{ include.site.notes | markdownify }}
+  {{ include notes.html }}
   {{ include notes.md | markdownify }}
 </div>
