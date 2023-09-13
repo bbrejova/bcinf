@@ -24,7 +24,6 @@
 </div>
 </nav>
 <div>
-  {{ site.notes | markdownify }}<br>
-  {% include notes2.html %}
-  {% include notes.md %} <!-- | markdownify }}-->
+  <!-- {{ site.notes | markdownify }}<br>-->
+  {% include notes.md | markdownify %}
 </div>
