@@ -1,5 +1,6 @@
 ---
 title: Úvod
+layout: index.html
 ---
 
 * **20.9. Úvod k bakalárskej práci a k semináru (všetci)**<br>
