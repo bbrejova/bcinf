@@ -14,7 +14,7 @@ title: Odovzdávanie prác
 
 ## Elektronická verzia práce
 
-  - Odovzdáva sa v systéme AIS do **nedele 21.5.2023 do 23:59**
+  - Odovzdáva sa v systéme AIS do **piatku 24.5.2024 do 23:59**
   - Pdf súbor, ktorý sa dá previesť na čistý text
       - prevod na text si môžete otestovať [na stránke
         CRZP](http://testdoc.crzp.sk/?fn=main)
@@ -25,8 +25,7 @@ title: Odovzdávanie prác
         cm-super)
   - Má obsahovať nepodpísané zadanie (stiahnite si z AIS, v prípade
     problémov kontaktujte doc. Pardubskú)
-      - Anglické práce majú mať zadanie v obidvoch jazykoch (ak anglické
-        zadanie v AIS nevidíte, požiadajte školiteľa alebo B.Brejovú)
+      - Anglické práce majú mať zadanie v obidvoch jazykoch
   - Pri odovzdávaní treba vyplniť aj ďalšie údaje, napr. abstrakt a
     počet strán (posledná číslovaná strana)
   - Vo zvláštnom súbore môžete odovzdať prílohy (napr. zdrojový text

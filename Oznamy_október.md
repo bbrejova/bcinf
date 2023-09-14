@@ -30,7 +30,7 @@ pre diplomovú prácu, kontrolné stretnutie
 
   - Plnenie úloh z bakalárskeho seminára nie je samo o sebe dostatočný
     pokrok na bakalárskej práci. Rozmyslite si [časový
-    plán](./Rady_k_samotnej_práci.md#príklad-časového-plánu)
+    plán](./Rady_k_samotnej_práci.html#príklad-časového-plánu)
     a dodržujte ho. Nedostatok času je najčastejšia príčina problémov s
     bakalárskou prácou.
 

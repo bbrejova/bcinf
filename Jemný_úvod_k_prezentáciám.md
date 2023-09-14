@@ -3,8 +3,7 @@ title: Jemný úvod k prezentáciám
 ---
 
 Táto stránka je skrátenou verziou podrobnejšieho návodu [Obhajoba,
-prezentácia vlastných
-výsledkov](./Obhajoba,_prezentácia_vlastných_výsledkov.md)
+prezentácia vlastných výsledkov](./Obhajoba,_prezentácia_vlastných_výsledkov.html)
 
   - V tomto semestri budete prezentovať tému svojej práce, v budúcom
     semestri pokrok v práci
