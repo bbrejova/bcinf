@@ -8,7 +8,7 @@ pre diplomovú prácu, kontrolné stretnutie
 **Zadania**
 
   - Do 31.10. by ste mali mať v AIS schválené zadanie, viď [návod](./Výber_školiteľa_a_témy.md#administratíva),
-  - Ak váš školiteľ nemá prístup do AIS, nech D.Pardubskej pošle [detaily témy](./Externý_školiteľ.md) emailom
+  - Ak váš školiteľ nemá prístup do AIS, nech doc. Pardubskej pošle [detaily témy](./Externý_školiteľ.md) emailom
   - Podpísanú kópiu treba začiatkom novembra zaniesť na študijné
 
 **Čo nás čaká na seminári**
@@ -30,7 +30,7 @@ pre diplomovú prácu, kontrolné stretnutie
 
   - Plnenie úloh z bakalárskeho seminára nie je samo o sebe dostatočný
     pokrok na bakalárskej práci. Rozmyslite si [časový
-    plán](./Rady_k_samotnej_práci.md#Pr.C3.ADklad_.C4.8Dasov.C3.A9ho_pl.C3.A1nu)
+    plán](./Rady_k_samotnej_práci.md#príklad-časového-plánu)
     a dodržujte ho. Nedostatok času je najčastejšia príčina problémov s
     bakalárskou prácou.
 
