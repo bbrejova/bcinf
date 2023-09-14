@@ -1,12 +1,18 @@
 theme: minima
-#remote_theme: jekyll/minima
-title: Bakalársky seminár 1-INF-911, 1-INF-920 2023/24
-
 exclude: [README.md]
 
+# TODO: zmenit skolsky rok podla potreby
+title: Bakalársky seminár 1-INF-911, 1-INF-920 2023/24
+
+# TODO: zmenit cislo triedy v moodle podla semestra
+# ZS: 2161 LS: 2784
+# zvycajne zostane rovnake medzi rokmi
+moodle: 2161
+
+# TODO: zmenit podla semestra ZS/LS
 header_pages:
   - index.md
-  - Pravidlá.md 
+  - Pravidlá_ZS.md 
   - Kontakt.md
   - Návod.md
   - Školitelia.md
