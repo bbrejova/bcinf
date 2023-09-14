@@ -1,6 +1,8 @@
 ---
-title: Pravidlá, zimný semester
+title: Pravidlá
 ---
+
+# Zimný semester
 
 ## Známka
 
