@@ -7,7 +7,7 @@ informácie špecificky potrebné k bakalárskej práci.
 
 ## Kostra práce
 
-Ak chcete použiť LaTeX, môžete si stiahnuť [kostru bakalárskejpráce](./files/Praca.zip), ktorá obsahuje požadovaný formát
+Ak chcete použiť LaTeX, môžete si stiahnuť [kostru bakalárskej práce](./files/Praca.zip), ktorá obsahuje požadovaný formát
 prvých strán a ukážky užitočných príkazov.
   - Ako alternatívu môžete tiež použiť kostru, ktorú spravili nedávni
     absolventi: <https://github.com/davidmisiak/thesis-template>
