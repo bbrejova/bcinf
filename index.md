@@ -14,10 +14,15 @@ layout: index
 [Návod](./Návod.md) (podstránky 6.,7.) •  [DÚ1](./DÚ1.md) • [Prezentácia 1](./Prezentácia_1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md) <!-- • [Oznamy](Oznamy_október.md) -->
 * **25.10. Rezerva**
 * **1.11. Sviatok**
-* **8.11. Prezentácie (aspoň 2)**
-* **15.11. Prezentácie (aspoň 2)**
-* **22.11. Prezentácie (aspoň 2)**
-* **29.11. Prezentácie (aspoň 2)**
-* **6.12. Prezentácie (aspoň 2)**
+* **8.11. Prezentácie (aspoň 2)**<br>
+Prezentujú Baďurová, Balanchuk, Petráni, Hudcovský, Pásztorová
+* **15.11. Prezentácie (aspoň 2)**<br>
+Prezentujú Tarhovický, Farnbauer, Žilinčík, Gábor, Skubeňová
+* **22.11. Prezentácie (aspoň 2)**<br>
+Prezentujú Pietukhin, Kabátová, Bruha, Dobrovič, Heldák
+* **29.11. Prezentácie (aspoň 2)**<br>
+Prezentujú Bujňák, Haščík, Košovský, Krošlák, Michalovič
+* **6.12. Prezentácie (aspoň 2)**<br>
+Prezentujú Gurová, Horňáček, Kica, Rybárová, Švec
 * **13.12. Rezerva**
 * Kontrolné stretnutie cez skúškové obdobie
