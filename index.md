@@ -3,6 +3,30 @@ title: Úvod
 layout: index
 ---
 
+### 1-INF-911, 1-INF-920
+
+
+#### Letný semester
+
+* **22.2. Úvod (všetci)**<br>
+[Oznamy](./Oznamy_február.md)
+* **29.2. Cvičenie k písaniu (všetci)**<br>
+Prineste si notebook s nabitou baterkou a funkčnou WiFi, stačí jeden na 2-3 študentov. V prípade záujmu si prineste aj krátke úryvky vášho textu na zlepšovanie.
+* **7.3. Prezentácie** (aspoň 2)
+* **14.3. Prezentácie** (aspoň 2)
+* **21.3. Prezentácie** (aspoň 2)
+* **28.3.** Veľká Noc
+* **4.4. Prezentácie** (aspoň 2)
+* **11.4. Prezentácie** (aspoň 2)
+* **18.4. Kontrolné stretnutia**
+* **25.4. Kontrolné stretnutia**
+* **2.5. Kontrolné stretnutia** 
+* **9.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**
+* **16.5.** Rezerva
+
+
+#### Zimný semester
+
 * **20.9. Úvod k bakalárskej práci a k semináru (všetci)**<br>
 [Pravidlá](./Pravidlá_ZS.md)  • [Návod](./Návod.md) (podstránky 1.-3.)  •  [Školitelia a témy](./Školitelia.md)
 * **27.9. Predstavovanie tém a školiteľov (všetci)**
@@ -26,3 +50,7 @@ Prezentujú Bujňák, Haščík, Košovský, Krošlák, Michalovič
 Prezentujú Gurová, Horňáček, Kica, Rybárová, Švec
 * **13.12. Rezerva**
 * Kontrolné stretnutie cez skúškové obdobie
+
+* **21.2. Úvod k semináru letnému semestru (všetci)**<br>
+[Pravidlá](./Pravidlá_LS.md)
+
