@@ -8,21 +8,25 @@ layout: index
 
 #### Letný semester
 
-* **22.2. Úvod (všetci)**<br>
+* **21.2. Úvod (všetci)**<br>
 [Oznamy](./Oznamy_február.md)
-* **29.2. Cvičenie k písaniu (všetci)**<br>
-Prineste si notebook s nabitou baterkou a funkčnou WiFi, stačí jeden na 2-3 študentov. V prípade záujmu si prineste aj krátke úryvky vášho textu na zlepšovanie.
-* **7.3. Prezentácie** (aspoň 2)
-* **14.3. Prezentácie** (aspoň 2)
-* **21.3. Prezentácie** (aspoň 2)
-* **28.3.** Veľká Noc
-* **4.4. Prezentácie** (aspoň 2)
-* **11.4. Prezentácie** (aspoň 2)
-* **18.4. Kontrolné stretnutia**
-* **25.4. Kontrolné stretnutia**
-* **2.5. Kontrolné stretnutia** 
-* **9.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**
-* **16.5.** Rezerva
+* **28.2.** Voľno
+* **6.3. Prezentácie** (aspoň 2)<br>
+Prezentujú Tarhovický, Detko, Lošonský, Farnbauer, Gábor, Skubeňová
+* **13.3. Prezentácie** (aspoň 2)<br>
+Prezentujú Baďurová, Balanchuk, Petráni, Hudcovský, Pásztorová
+* **20.3. Prezentácie** (aspoň 2)<br>
+Prezentujú Žilinčík, Pietukhin, Kabátová, Bruha, Heldák
+* **27.3. Prezentácie** (aspoň 2)<br>
+Prezentujú Bujňák, Haščík, Košovský, Krošlák, Michalovič
+* **3.4. Prezentácie** (aspoň 2)<br>
+Prezentujú Derková, Horňáček, Kica, Rybárová, Švec
+* **10.4. Kontrolné stretnutia** 
+* **17.4. Kontrolné stretnutia**
+* **24.4. Kontrolné stretnutia (rezerva)**
+* **1.5. Sviatok** 
+* **8.5. Sviatok**
+* **15.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)** 
 
 
 #### Zimný semester
