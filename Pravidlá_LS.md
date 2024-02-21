@@ -61,7 +61,6 @@ práce s inými predmetmi.
 
 ## Práca cez semester
 
-  - Budúci týždeň máme cvičenie k písaniu.
   - Na **[DÚ2](./DÚ2.md)** budete odovzdávať rozšírenú verziu DÚ1
     zo zimného semestra.
   - Na **[prezentácii 2](./Prezentácia_2.md)** budete prezentovať
@@ -72,13 +71,13 @@ práce s inými predmetmi.
     kontrolného stretnutia, ak máme pocit, že by pre vašu prácu bolo
     prospešné.
   - K všetkým povinnostiam odovzdajte požadované dokumenty elektronicky
-    do systému Moodle, kde budeme tiež zverejňovať body.
+    do systému Moodle.
   - Dodržujte termín odovzdania a pokyny uvedené v zadaní.
 
 ## Nácvik obhajob
 
   - Cez skúškové obdobie (po odovzdaní prác) sa bude konať
-    **[prezentácia 3](./prezentácia_3.md)** slúžiaca ako nácvik
+    **[prezentácia 3](./Prezentácia_3.html)** slúžiaca ako nácvik
     obhajob, kde každý študent prezentuje svoju prácu a odpovedá na
     otázky z publika.
 

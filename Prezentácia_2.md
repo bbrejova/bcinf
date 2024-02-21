@@ -2,18 +2,12 @@
 title: Prezentácia 2
 ---
 
-10% známky, pdf prezentácie odovzdať cez [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=103690) najneskôr hodinu pred
-začiatkom seminára, na ktorom budete prezentovať. Odovzdané pdf nahráme
+10% známky, pdf prezentácie odovzdať cez [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=64196) najneskôr hodinu pred začiatkom seminára, na ktorom budete prezentovať. Odovzdané pdf nahráme
 na počítač, z ktorého budete prezentovať. 
-<!-->
-[Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=64196) -->
 
 Hlavným cieľom tejto prezentácie je, aby ste sa zamysleli nad stavom
 svojej práce a nad plánmi na jej dokončenie. Pripravte si prezentáciu s
-rovnakým obsahom ako na [kontrolné
-stretnutie 1](./Kontrolné_stretnutie_1.md) v zimnom skúškovom období,
-ale aktualizujte ju na súčasný stav. Budete ju prezentovať pred
-vyučujúcimi a menšou skupinou spolužiakov.
+rovnakým obsahom ako na [kontrolné stretnutie 1](./Kontrolné_stretnutie_1.html) v zimnom skúškovom období, ale aktualizujte ju na súčasný stav. Budete ju prezentovať pred vyučujúcimi a menšou skupinou spolužiakov.
 
 V prezentácii teda uveďte nasledovné:
 
@@ -31,7 +25,7 @@ V prezentácii teda uveďte nasledovné:
   - Problémy a výzvy: čo na vašej téme je pre vás najťažšie, prípadne či
     máte nejaké problémy, ktoré momentálne neviete riešiť
 
-Prezentácia by mala trvať najviac 5 minút a mala by sa venovať iba
+Prezentácia by mala trvať najviac 7 minút a mala by sa venovať iba
 vyššie uvedeným bodom. Nie je potrebné vysvetľovať detaily vašej témy,
 ani ukazovať konkrétne výsledky, iba popíšte, čo máte hotové a čo sa
 ešte chystáte robiť. Po prezentácii bude nasledovať diskusia, v ktorej
@@ -46,7 +40,6 @@ dobre ste si premysleli a prezentovali váš aktuálny stav a budúce plány.
 
 Špeciálne podmienky pre študentov, ktorí Bakalársky seminár (1)
 neabsolvovali v tomto školskom roku alebo ktorí od minulej prezentácie
-zmenili tému bakalárskej práce: neplatí časový limit 5 minút, pripravte
-aj krátky úvod do vašej témy, spolu asi 10 minút (5 minút úvod, 5 minút
-stav prác a plány).
+zmenili tému bakalárskej práce: neplatí časový limit 7 minút, pripravte
+aj krátky úvod do vašej témy, očakávaná dĺžka prezentácie spolu asi 10 minút.
 

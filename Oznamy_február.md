@@ -10,7 +10,6 @@
 ### Čo nás čaká v najbližšom čase
 
 - Tento týždeň úvod k predmetu, pokyny k odovzdávaniu prác.
-- Budúci týždeň povinné cvičenie k písaniu. Prineste si notebook s nabitou baterkou a funkčnou WiFi, stačí jeden na 2-3 študentov. V prípade záujmu si prineste aj krátke úryvky vášho textu na zlepšovanie.
 - Pondelok 4.3. odovzdanie DÚ2.
 - Od 6.3. budú prezentácie, rozpis bude na stránke, dajte vedieť závažné konflikty.
 
