@@ -7,12 +7,12 @@ title: Bakalársky seminár 1-INF-911, 1-INF-920 2023/24
 # TODO: zmenit cislo triedy v moodle podla semestra
 # ZS: 2161 LS: 2784
 # zvycajne zostane rovnake medzi rokmi
-moodle: 2161
+moodle: 2784
 
 # TODO: zmenit podla semestra ZS/LS
 header_pages:
   - index.md
-  - Pravidlá_ZS.md 
+  - Pravidlá_LS.md 
   - Kontakt.md
   - Návod.md
   - Školitelia.md
