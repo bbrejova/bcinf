@@ -12,15 +12,15 @@ layout: index
 [Oznamy](./Oznamy_február.md)
 * **28.2.** Voľno
 * **6.3. Prezentácie** (aspoň 2)<br>
-Prezentujú Tarhovický, Detko, Lošonský, Farnbauer, Gábor, Skubeňová
+Prezentujú Derková, Detko, Lošonský, Skubeňová
 * **13.3. Prezentácie** (aspoň 2)<br>
 Prezentujú Baďurová, Balanchuk, Petráni, Hudcovský, Pásztorová
 * **20.3. Prezentácie** (aspoň 2)<br>
-Prezentujú Žilinčík, Pietukhin, Kabátová, Bruha, Heldák
+Prezentujú Žilinčík, Pietukhin, Kabátová, Bruha, Heldák, Gábor
 * **27.3. Prezentácie** (aspoň 2)<br>
 Prezentujú Bujňák, Haščík, Košovský, Krošlák, Michalovič
 * **3.4. Prezentácie** (aspoň 2)<br>
-Prezentujú Derková, Horňáček, Kica, Rybárová, Švec
+Prezentujú Tarhovický, Horňáček, Kica, Rybárová, Švec
 * **10.4. Kontrolné stretnutia** 
 * **17.4. Kontrolné stretnutia**
 * **24.4. Kontrolné stretnutia (rezerva)**
