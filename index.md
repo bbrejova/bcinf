@@ -21,8 +21,10 @@ Prezentujú Žilinčík, Pietukhin, Kabátová, Bruha, Heldák, Gábor
 Prezentujú Bujňák, Haščík, Košovský, Krošlák, Michalovič
 * **3.4. Prezentácie** (aspoň 2)<br>
 Prezentujú Tarhovický, Horňáček, Kica, Rybárová, Švec
-* **10.4. Kontrolné stretnutia** 
+* **10.4. Kontrolné stretnutia**<br>
+Derková, Detko, Lošonský, Skubeňová, Baďurová, Balanchuk, Petráni, Pásztorová, Bruha, Kabátová, Bujňák
 * **17.4. Kontrolné stretnutia**
+Hudcovský, Gábor, Žilinčík, Pietukhin, Haščík, Košovský, Krošlák, Michalovič,Tarhovický, Horňáček, Kica, Rybárová, Švec
 * **24.4. Kontrolné stretnutia (rezerva)**
 * **1.5. Sviatok** 
 * **8.5. Sviatok**
