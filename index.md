@@ -29,6 +29,12 @@ Hudcovský, Gábor, Žilinčík, Pietukhin, Haščík, Košovský, Krošlák, Mi
 * **1.5. Sviatok** 
 * **8.5. Sviatok**
 * **15.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)** 
+* **10..6. Predobhajoby**<br>
+Skupina 1:<br>
+Skupina 2:<br>
+* **11.6. Predobhajoby**<br> 
+Skupina 3:<br>
+Skupina 4:<br>
 
 
 #### Zimný semester

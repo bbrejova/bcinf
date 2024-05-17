@@ -14,7 +14,7 @@ title: Odovzdávanie prác
 
 ## Elektronická verzia práce
 
-  - Odovzdáva sa v systéme AIS do **piatku 24.5.2024 do 23:59**
+  - Odovzdáva sa v systéme AIS do **piatku 26.5.2024 do 23:59**
   - Pdf súbor, ktorý sa dá previesť na čistý text
       - prevod na text si môžete otestovať [na stránke
         CRZP](http://testdoc.crzp.sk/?fn=main)
