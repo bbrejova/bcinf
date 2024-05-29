@@ -30,11 +30,35 @@ Hudcovský, Gábor, Žilinčík, Pietukhin, Haščík, Košovský, Krošlák, Mi
 * **8.5. Sviatok**
 * **15.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)** 
 * **10..6. Predobhajoby**<br>
-Skupina 1:<br>
-Skupina 2:<br>
+Skupina 1 (ráno):
+Richard Steven Žilinčík,
+Anton Kica,
+Marek Lošonský,
+Terézia Kabátová,
+Lukáš Horňáček
+<br>
+Skupina 2 (poobede):
+Zuzana Skubeňová,
+Lukáš Hudcovský,
+Emma Pásztorová,
+Hana Derková,
+Michal Švec
+<br>
 * **11.6. Predobhajoby**<br> 
-Skupina 3:<br>
-Skupina 4:<br>
+Skupina 3 (ráno):
+Adam Dávid Detko,
+Radoslav Petráni,
+Emma Baďurová,
+Nadiya Balanchuk,
+Havriil Oleksiiovych Pietukhin
+<br>
+Skupina 4 (poobede):
+Marek Michalovič,
+Lukáš Bujňák,
+Martin Košovský,
+Maximilián Martin Krošlák,
+Jakub Tarhovický
+<br>
 
 
 #### Zimný semester
