@@ -37,6 +37,7 @@ layout: index
 [Návod](./Návod.md) (podstránky 6.,7.) •  [DÚ1](./DÚ1.md) • [Prezentácia 1](./Prezentácia_1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md) <!-- • [Oznamy](Oznamy_október.md) -->
 * **30.10. Rezerva**
 * **6.11. Prezentácie (aspoň 2)**<br>
+Farnbauer, Kovalov, Krajčíová, Lukáč, Makúch, Pukhtaievych<br>
 * **13.11. Seminár nebude**
 * **20.11. Prezentácie (aspoň 2)**<br>
 * **27.11. Prezentácie (aspoň 2)**<br>
