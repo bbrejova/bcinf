@@ -40,9 +40,13 @@ layout: index
 Farnbauer, Kovalov, Krajčíová, Lukáč, Makúch, Pukhtaievych<br>
 * **13.11. Seminár nebude**
 * **20.11. Prezentácie (aspoň 2)**<br>
+Gurová, Lukáčik, Osadský, Pištek, Rohaľ, Zrubák
 * **27.11. Prezentácie (aspoň 2)**<br>
+Amosová, Barančok, Krupa, Podhradský, Sládek
 * **4.12. Prezentácie (aspoň 2)**<br>
+Andraščík, Drobný, Komoráš, Ončák, Senderák, Škorňák
 * **11.12. Prezentácie (aspoň 2)**<br>
+Biriukova, Bucher, Regeš, Tuch
 * Kontrolné stretnutie cez skúškové obdobie
 
 * **21.2. Úvod k semináru letnému semestru (všetci)**<br>
