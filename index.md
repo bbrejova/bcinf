@@ -37,16 +37,16 @@ layout: index
 [Návod](./Návod.md) (podstránky 6.,7.) •  [DÚ1](./DÚ1.md) • [Prezentácia 1](./Prezentácia_1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md) <!-- • [Oznamy](Oznamy_október.md) -->
 * **30.10. Rezerva**
 * **6.11. Prezentácie (aspoň 2)**<br>
-Farnbauer, Kovalov, Krajčíová, Lukáč, Makúch, Pukhtaievych<br>
+Farnbauer, Kovalov, Krajčíová, Hošták, Makúch, Pukhtaievych<br>
 * **13.11. Seminár nebude**
 * **20.11. Prezentácie (aspoň 2)**<br>
 Gurová, Lukáčik, Osadský, Pištek, Rohaľ, Zrubák
 * **27.11. Prezentácie (aspoň 2)**<br>
-Amosová, Barančok, Krupa, Podhradský, Sládek
+Amosová, Barančok, Krupa, Podhradský, Sládek, Biriukova
 * **4.12. Prezentácie (aspoň 2)**<br>
 Andraščík, Drobný, Komoráš, Ončák, Senderák, Škorňák
 * **11.12. Prezentácie (aspoň 2)**<br>
-Biriukova, Bucher, Regeš, Tuch
+Bucher, Regeš, Tuch, Lukáč
 * Kontrolné stretnutie cez skúškové obdobie
 
 * **21.2. Úvod k semináru letnému semestru (všetci)**<br>
