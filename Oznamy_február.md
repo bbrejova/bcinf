@@ -10,7 +10,7 @@
 ### Čo nás čaká v najbližšom čase
 
 - Tento týždeň úvod k predmetu, pokyny k odovzdávaniu prác.
-- Pondelok 4.3. odovzdanie DÚ2.
-- Od 6.3. budú prezentácie, rozpis bude na stránke, dajte vedieť závažné konflikty.
+- Strda 5.3. odovzdanie DÚ2.
+- Od 5.3. budú prezentácie, rozpis bude na stránke, dajte vedieť závažné konflikty.
 
 **Usilovne pracujte na bakalárke, do termínu odovzdania sú tri mesiace!**

@@ -5,26 +5,29 @@ layout: index
 
 ### 1-INF-911, 1-INF-920
 
-<!--#### Letný semester
+#### Letný semester
 
-* **21.2. Úvod (všetci)**<br>
+* **19.2. Úvod (všetci)**<br>
 [Oznamy](./Oznamy_február.md)
-* **28.2.** Voľno
-* **6.3. Prezentácie** (aspoň 2)
-* **13.3. Prezentácie** (aspoň 2)
-* **20.3. Prezentácie** (aspoň 2)
-* **27.3. Prezentácie** (aspoň 2)
-* **3.4. Prezentácie** (aspoň 2)
-* **10.4. Kontrolné stretnutia**
-* **17.4. Kontrolné stretnutia**
-* **24.4. Kontrolné stretnutia (rezerva)**
-* **1.5. Sviatok** 
-* **8.5. Sviatok**
-* **15.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)** 
-* **10..6. Predobhajoby**
-* **11.6. Predobhajoby**
+* **26.2.** Voľno
+* **5.3. Prezentácie** (aspoň 2)
+Bruha, Bukhoiarov, Haščík, Heldák, Pukhtaievych, Bucher 
+* **12.3. Prezentácie** (aspoň 2)
+Farnbauer, Kovalov, Krajčíová, Hošták, Makuch, Regeš, Tuch 
+* **19.3. Prezentácie** (aspoň 2)
+Gurová, Lukáčik, Osadský, Pištek, Rohaľ, Zrubák, Lukáč
+* **26.3. Prezentácie** (aspoň 2)
+Amosová, Barančok, Krupa, Podhradský, Sládek, Biriukova
+* **2.4. Prezentácie** (aspoň 2)
+Andraščík, Drobný, Komoráš, Ončák, Senderák, Škorňák
+* **9.4. Kontrolné stretnutia**
+* **16.4. Kontrolné stretnutia**
+* **23.4. Kontrolné stretnutia (rezerva)**
+* **30.4.** Voľno
+* **7.5. Voľno**
+* **cca 10.6.-11.6 Predobhajoby**
 
-#### Zimný semester-->
+#### Zimný semester
 
 * **25.9. Úvod k bakalárskej práci a k semináru (všetci)**<br>
 [Pravidlá](./Pravidlá_ZS.md)  • [Návod](./Návod.md) (podstránky 1.-3.)  •  [Školitelia a témy](./Školitelia.md)

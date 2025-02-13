@@ -14,7 +14,7 @@ title: Odovzdávanie prác
 
 ## Elektronická verzia práce
 
-  - Odovzdáva sa v systéme AIS do **piatku 26.5.2024 do 23:59**
+  - Odovzdáva sa v systéme AIS do **piatku 23.5.2025 do 23:59**
   - Pdf súbor, ktorý sa dá previesť na čistý text
       - prevod na text si môžete otestovať [na stránke
         CRZP](http://testdoc.crzp.sk/?fn=main)
@@ -117,7 +117,7 @@ knižnici
 ## Odovzdávanie vytlačených prác na katedre
 
   - Odovzdáva sa na sekretariáte Katedry informatiky u pani Pažickej,
-    M-254 do piatku 26.5.(?), odporúčame prísť v doobednajších hodinách
+    M-254 do piatku 23.5.(?), odporúčame prísť v doobednajších hodinách
   - Ďalšie informácie viď [stránka
     katedry](http://new.dcs.fmph.uniba.sk/index.php/Studium/Bakalarske/OdovzdavanieBakalarskychPrac)
 

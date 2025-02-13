@@ -52,7 +52,7 @@ title: Štúdium v poslednom ročníku
       - [Dátová
         veda](https://sluzby.fmph.uniba.sk/infolist/sk/2-INF-956.html)
 
-  - Pri [prijímaní na magisterské štúdium](https://fmph.uniba.sk/fileadmin/fmfi/studium/prijimacky/Podmienky_na_prijatie_na_mgr-phd_studium_23_24.pdf) sa berie do úvahy študijný
+  - Pri [prijímaní na magisterské štúdium](https://fmph.uniba.sk/fileadmin/fmfi/studium/prijimacky/Podmienky_na_prijatie_na_mgr-phd_studium_24_24.pdf) sa berie do úvahy študijný
     priemer z povinných a povinne voliteľných predmetov, vrátane štátnic. Ak máte priemer nad 1,75, môžete byť pozvaní na prijímacie skúšky.
   - Oficiálny [študijný plán](./Štúdium_v_poslednom_ročníku.md) na aktuálny školský rok 
 
@@ -75,10 +75,10 @@ title: Štúdium v poslednom ročníku
 
 ### Ak sa vám nepodarí skončiť
 
-  - [Školné](https://zona.fmph.uniba.sk/studenti-a-studium/poplatky/) pri prekročení štandardnej dĺžky štúdia 1000 EUR (2023/24)
+  - [Školné](https://zona.fmph.uniba.sk/studenti-a-studium/poplatky/) pri prekročení štandardnej dĺžky štúdia 1500 EUR (2024/25)
     prepočítava s apodľa počtu potrebných kreditov
   - Možnosť požiadať o
-    [zníženie](https://zona.fmph.uniba.sk/fileadmin/ruk/legislativa/2023/Vp_2023_18.pdf)
+    [zníženie](https://zona.fmph.uniba.sk/studenti-a-studium/poplatky/)
     (zdravotné dôvody, sociálna situácia, zahraničné pobyty, prerušenie
     štúdia a pod.)
   - Ak vám hrozí predlžovanie štúdia, poraďte sa na študijnom oddelení o
