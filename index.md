@@ -11,9 +11,9 @@ layout: index
 [Oznamy](./Oznamy_február.md)
 * **26.2.** Voľno
 * **5.3. Prezentácie** (aspoň 2)
-Bruha, Bukhoiarov, Heldák, Pukhtaievych, Bucher, Rybárová 
+Bruha, Bukhoiarov, Heldák, Hošták, Bucher, Rybárová 
 * **12.3. Prezentácie** (aspoň 2)
-Farnbauer, Kovalov, Haščík, Hošták, Makuch, Regeš, Tuch 
+Farnbauer, Kovalov, Haščík, Pukhtaievych, Makuch, Regeš, Tuch 
 * **19.3. Prezentácie** (aspoň 2)
 Gurová, Lukáčik, Osadský, Pištek, Rohaľ, Zrubák, Lukáč, Ončák
 * **26.3. Prezentácie** (aspoň 2)
