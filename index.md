@@ -11,15 +11,15 @@ layout: index
 [Oznamy](./Oznamy_február.md)
 * **26.2.** Voľno
 * **5.3. Prezentácie** (aspoň 2)
-Bruha, Bukhoiarov, Haščík, Heldák, Pukhtaievych, Bucher 
+Bruha, Bukhoiarov, Heldák, Pukhtaievych, Bucher, Rybárová 
 * **12.3. Prezentácie** (aspoň 2)
-Farnbauer, Kovalov, Krajčíová, Hošták, Makuch, Regeš, Tuch 
+Farnbauer, Kovalov, Haščík, Hošták, Makuch, Regeš, Tuch 
 * **19.3. Prezentácie** (aspoň 2)
-Gurová, Lukáčik, Osadský, Pištek, Rohaľ, Zrubák, Lukáč
+Gurová, Lukáčik, Osadský, Pištek, Rohaľ, Zrubák, Lukáč, Ončák
 * **26.3. Prezentácie** (aspoň 2)
-Amosová, Barančok, Krupa, Podhradský, Sládek, Biriukova
+Amosová, Barančok, Krupa, Podhradský, Sládek, Biriukova, 
 * **2.4. Prezentácie** (aspoň 2)
-Andraščík, Drobný, Komoráš, Ončák, Senderák, Škorňák
+Andraščík, Drobný, Komoráš, Krajčíová, Senderák, Škorňák
 * **9.4. Kontrolné stretnutia**
 * **16.4. Kontrolné stretnutia**
 * **23.4. Kontrolné stretnutia (rezerva)**
