@@ -20,9 +20,9 @@ Gurová, Lukáčik, Osadský, Pištek, Rohaľ, Zrubák, Lukáč, Ončák
 Amosová, Barančok, Krupa, Podhradský, Sládek, Biriukova, 
 * **2.4. Prezentácie** (aspoň 2)
 Andraščík, Drobný, Komoráš, Krajčíová, Senderák, Škorňák
-* **9.4. Kontrolné stretnutia**
+* **9.4. Seminár nebude (ŠVK)**
 * **16.4. Kontrolné stretnutia**
-* **23.4. Kontrolné stretnutia (rezerva)**
+* **23.4. Kontrolné stretnutia**
 * **30.4.** Voľno
 * **7.5. Voľno**
 * **cca 10.6.-11.6 Predobhajoby**
