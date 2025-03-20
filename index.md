@@ -17,9 +17,9 @@ Farnbauer, Kovalov, Haščík, Pukhtaievych, Makuch, Regeš, Tuch
 * **19.3. Prezentácie** (aspoň 2)
 Gurová, Lukáčik, Osadský, Pištek, Rohaľ, Zrubák, Lukáč, Ončák
 * **26.3. Prezentácie** (aspoň 2)
-Amosová, Barančok, Krupa, Podhradský, Sládek, Biriukova, 
+Amosová, Barančok, Krupa, Škorňák, Sládek, Biriukova, 
 * **2.4. Prezentácie** (aspoň 2)
-Andraščík, Drobný, Komoráš, Krajčíová, Senderák, Škorňák
+Andraščík, Drobný, Komoráš, Krajčíová, Senderák, Podhradský
 * **9.4. Seminár nebude (ŠVK)**
 * **16.4. Kontrolné stretnutia**
 * **23.4. Kontrolné stretnutia**
