@@ -23,8 +23,9 @@ Andraščík, Drobný, Komoráš, Krajčíová, Senderák, Podhradský
 * **9.4. Seminár nebude (ŠVK)**
 * **16.4. Kontrolné stretnutia**
 * **23.4. Kontrolné stretnutia**
-* **30.4.** Voľno
+* **30.4. Voľno** 
 * **7.5. Voľno**
+* **14.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob**
 * **cca 10.6.-11.6 Predobhajoby**
 
 #### Zimný semester
