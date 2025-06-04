@@ -26,8 +26,18 @@ Andraščík, Drobný, Komoráš, Krajčíová, Senderák, Podhradský
 * **30.4. Voľno** 
 * **7.5. Voľno**
 * **14.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob**
-* **cca 10.6.-11.6 Predobhajoby**
-
+* **9.6. 9:00 Predobhajoby**
+Farnbauer, Lukáčik, Osadský, Makúch, Krupa
+* **9.6. 12:30 Predobhajoby**
+Bucher, Hošták, Drobný, Komoráš, Senderák
+* **10.6. 9:00 Predobhajoby**
+Podhradský,  Škorňák,  Amosová,  Tuch,  Heldák
+* **10.6. 12:30 Predobhajoby**
+Ončák, Pištek, Zrubák, Biriukova, Regeš
+* **11.6. 9:00 Predobhajoby**
+Rybárová, Bukhtoiarov, Haščík, Barančok, Pukhtaievych
+* **11.6. 12:30 Predobhajoby**
+Rohaľ, Bruha, Kovalov, Lukáč, Krajčiová
 #### Zimný semester
 
 * **25.9. Úvod k bakalárskej práci a k semináru (všetci)**<br>
