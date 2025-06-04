@@ -38,6 +38,7 @@ Ončák, Pištek, Zrubák, Biriukova, Regeš
 Rybárová, Bukhtoiarov, Haščík, Barančok, Pukhtaievych
 * **11.6. 12:30 Predobhajoby**
 Rohaľ, Bruha, Kovalov, Lukáč, Krajčiová
+
 #### Zimný semester
 
 * **25.9. Úvod k bakalárskej práci a k semináru (všetci)**<br>
