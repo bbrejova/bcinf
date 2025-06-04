@@ -2,7 +2,7 @@
 title: Prezentácia 3
 ---
 
-40% známky, pdf odovzdať cez [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=103692) najneskôr
+40% známky, pdf odovzdať cez [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=64199) najneskôr
 **hodinu pred začiatkom stretnutia**, na ktorom budete prezentovať. Odovzdané pdf nahráme
 na počítač, z ktorého budete prezentovať. 
 <!-- 50% známky INF,  [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=64199) -->
