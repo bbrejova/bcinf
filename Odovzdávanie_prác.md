@@ -136,5 +136,5 @@ Prineste
     (ktorého vyberá garant)
   - Školiteľský aj oponentský posudok nájdete v AIS, mali by ste ho
     dostať aspoň 3 dni pred obhajobou
-  - Prezentáciu na obhajobu odovzdávajte cez [katedrový systém](http://new.dcs.fmph.uniba.sk/index.php/Studium/Bakalarske/OdovzdavanieBakalarskychPrac) aspoň 16
+  - Prezentáciu na obhajobu odovzdávajte cez [katedrový systém](http://new.dcs.fmph.uniba.sk/index.php/Studium/Bakalarske/OdovzdavanieBakalarskychPrac) aspoň 24
     hodín pred obhajobami
