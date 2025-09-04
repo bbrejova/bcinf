@@ -27,9 +27,9 @@ layout: index
 
 #### Letný semester
 
-* **19.2. Úvod (všetci)**<br>
+<!--* **19.2. Úvod (všetci)**<br>
 [Oznamy](./Oznamy_február.md)
-<!--* **26.2.** Voľno
+* **26.2.** Voľno
 * **5.3. Prezentácie** (aspoň 2)
 Bruha, Bukhoiarov, Heldák, Hošták, Bucher, Rybárová 
 * **12.3. Prezentácie** (aspoň 2)
