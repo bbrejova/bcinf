@@ -3,7 +3,6 @@ title: Kontrolné stretnutie 1
 ---
 
 10% známky, Prezentácie odovzdať vopred prostredníctvom systému [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=40953).
-<!-- [DAV+BIN](https://moodle.uniba.sk/mod/assign/view.php?id=94796).-->
 
 Hlavným cieľom kontrolného stretnutia je, aby ste sa zamysleli nad
 stavom svojej práce a nad plánmi na jej dokončenie a dostali aj spätnú

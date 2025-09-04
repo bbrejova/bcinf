@@ -11,7 +11,7 @@ title: Školitelia a témy
 - **RNDr. Jaroslav Janáček, PhD.** operačné systémy, informačná bezpečnosť, siete, systémové programovanie
 - **Mgr. Peter Kostolányi, PhD.** formálne jazyky a teória automatov, modely výpočtov a zložitosť, matematické základy informatiky (požiadavky na študenta: matematická gramotnosť, znalosť angličtiny postačujúca na štúdium odbornej literatúry)
 - **prof. RNDr. Rastislav Královič, PhD.** algoritmy
-- **doc. RNDr. Robert Lukoťka, PhD.** teória grafov, štatistické modely predpovedí v meteorológii/energetike.
+- **doc. RNDr. Robert Lukoťka, PhD.** teória grafov
 - **doc. RNDr. Edita Mačajová, PhD.** teória grafov (rôzne druhy farbení a toky grafoch -- témy môžu byt teoretické alebo aj praktické, t.j. návrh a implementácia algoritmov)
 - **doc. RNDr. Ján Mazák, PhD.** teória grafov
 - **doc. RNDr. Daniel Olejár, PhD.** informačná bezpečnosť

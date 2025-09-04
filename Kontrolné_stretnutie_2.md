@@ -2,9 +2,7 @@
 title: Kontrolné stretnutie 2
 ---
 
-10% známky, pdf odovzdať cez [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=103691) pred začiatkom termínu vášho stretnutia. 
-<!-- INF:
-[1](https://moodle.uniba.sk/mod/assign/view.php?id=64197),-->
+10% známky, pdf odovzdať cez [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=64197) pred začiatkom termínu vášho stretnutia. 
 
 
 Cieľom kontrolného stretnutia je opäť sledovanie pokroku na vašej práci.
