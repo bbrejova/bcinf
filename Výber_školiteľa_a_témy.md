@@ -81,7 +81,8 @@ si túto oblasť môžete sami vybrať.
     schváli (ak je zadanie vhodné)
   - Téma by mala byť v AIS aj schválená do 31.10. Mali by ste si preto
     tému nájsť v dostatočnom predstihu, aby školiteľ a garant mali čas
-    vybaviť túto administratívu
+    vybaviť túto administratívu. Zadanie je potrebné vložiť do AISu do 
+    **24.10**.
   - Po schválení študent alebo školiteľ vytlačí zadanie
       - Jedno vytlačené zadanie podpísané študentom aj školiteľom treba
         zaniesť na študijné oddelenie

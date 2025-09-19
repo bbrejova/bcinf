@@ -9,6 +9,7 @@ title: Školitelia a témy
 - **doc. Mgr. Bronislava Brejová, PhD.** bioinformatika, algoritmy a pravdepodobnostné modely na spracovanie DNA sekvencií (nie je potrebné mať vopred hlbšie znalosti biológie)
 - **Mgr. Askar Gafurov, PhD.** bioinformatika, štatistika
 - **RNDr. Jaroslav Janáček, PhD.** operačné systémy, informačná bezpečnosť, siete, systémové programovanie
+- **RNDr. Jana Kostičová, PhD.** dátové inžinierstvo, hierarchické dáta, kompilátory, softvérové inžinierstvo
 - **Mgr. Peter Kostolányi, PhD.** formálne jazyky a teória automatov, modely výpočtov a zložitosť, matematické základy informatiky (požiadavky na študenta: matematická gramotnosť, znalosť angličtiny postačujúca na štúdium odbornej literatúry)
 - **prof. RNDr. Rastislav Královič, PhD.** algoritmy
 - **doc. RNDr. Robert Lukoťka, PhD.** teória grafov
@@ -21,16 +22,11 @@ title: Školitelia a témy
 - **prof. RNDr. Branislav Rovan, PhD.** formálne jazyky
 - **doc. RNDr. Martin Stanek, PhD.** kryptológia
 - **prof. RNDr. Martin Škoviera, PhD.** rozličné témy z teórie grafov podľa výberu záujemcu (kubické grafy, snarky a ich vlastnosti, realizácia grafov na plochách, hamiltonovské kružnice, atď; práca môže zahŕňať aj výpočty alebo experimentovanie na počítači)
-- **doc. RNDr. Eduard Toman, CSc.** náhodné grafy
 
 Bývalí členovia katedry
 
 - **Mgr. Jaroslav Budiš, PhD.** aplikácie zamerané na biologické a medínske dáta
 - **Mgr. Michal Ferko, PhD.** grafika, počítačové hry http://sccg.sk/~mferko/
-- **RNDr. Jana Katreniaková, PhD.** vizualizácia dát a algoritmov
-- **Mgr. Jakub Kováč, PhD.** vizualizácia algoritmov
-- **RNDr. Tomáš Kulich, PhD.** programovacie jazyky, implementačné témy (kontakt tomas.kulich zavinac gmail.com)
-- **RNDr. Michal Rjaško, PhD.** distribuované systémy, kryptológia
 
 ## Školitelia z iných katedier
 
@@ -42,7 +38,7 @@ V posledných rokoch naši študenti vypracovávali bakalárske práce aj pod ve
 - v oblasti počítačovej grafiky v minulosti našich študentov školili
   napr. RNDr. Zuzana Berger Haladová, PhD., RNDr. Zuzana Černeková,
   PhD., prof. RNDr. Roman Ďurikovič, RNDr. Martin Madaras, PhD., Mgr.
-  Andrej Mihálik, PhD.
+  Andrej Mihálik, PhD. 
 - v oblasti umelej inteligencie a kognitívnej vedy v minulosti našich
   študentov školili napr. prof. Ing. Igor Farkaš, PhD., RNDr.
   Kristína Malinovská, PhD., RNDr. Marek Nagy, PhD., Mgr. Pavel
@@ -52,17 +48,18 @@ V posledných rokoch naši študenti vypracovávali bakalárske práce aj pod ve
 - v oblasti programovacích jazykov, mobilných aplikácií RNDr. Peter
   Borovanský, PhD., Ing. František Gyárfáš, PhD.
 - v oblasti logiky Mgr. Ján Kľuka, PhD.
+doc. RNDr. Martin Plesch, PhD. 
 
 **Katedra algebry a geometrie**
 
   - [zoznam členov katedry a kontaktné
     údaje](https://fmph.uniba.sk/pracoviska/katedra-algebry-a-geometrie/)
   - v oblasti počítačovej grafiky v minulosti našich študentov školili
-    napr. doc. RNDr. Andrej Ferko, PhD.
+    napr. doc. RNDr. Andrej Ferko, PhD., Mgr. Marcel Makovník, PhD.
   - v oblasti teórie grafov a diskrétnej matematiky v minulosti našich
     študentov školili napr. doc. RNDr. Martin Mačaj, PhD., RNDr. Martin
     Sleziak, PhD.
 
 Môžete skúsiť aj iné katedry, či už didaktické, matematické alebo
-fyzikálne.
+fyzikálne. 
 
