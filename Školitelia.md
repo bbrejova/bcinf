@@ -17,7 +17,7 @@ title: Školitelia a témy
 - **doc. RNDr. Ján Mazák, PhD.** teória grafov
 - **doc. RNDr. Daniel Olejár, PhD.** informačná bezpečnosť
 - **RNDr. Richard Ostertág, PhD.** bezpečnosť zariadení, informačná bezpečnosť, programovacie jazyky, kompilátory, aplikácie pre web a mobilné zariadenia, operačné systémy, Arduino.
-- **doc. RNDr. Dana Pardubská, CSc.** výpočtové modely (abstraktné - klasické, biologicky motivované, so superturingovskou silou, s dodatočnou informáciou), zložitosť algoritmov, so zameraním na riešenie ťažkých problémov, zložitosť na abstraktných výpočtových modeloch, formálne jazyky, paralelizmus (prečo sa niektoré problémy dajú efektívne paralelizovať a iné nie), formálna verifikácia (metódy a existujúce nástroje), ACL2 (LISP-like jazyk s podporou dokazovania správnosti), dolné odhady/metódy dolných odhadov
+- **doc. RNDr. Dana Pardubská, CSc.** výpočtové modely (abstraktné - klasické, biologicky motivované, so superturingovskou silou, s dodatočnou informáciou), zložitosť algoritmov, so zameraním na riešenie ťažkých problémov, zložitosť na abstraktných výpočtových modeloch, formálne jazyky
 - **doc. Mgr. Tomáš Plachetka, Dr.** paralelné a distribuované výpočty, databázy, grafika
 - **prof. RNDr. Branislav Rovan, PhD.** formálne jazyky
 - **doc. RNDr. Martin Stanek, PhD.** kryptológia
