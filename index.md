@@ -16,8 +16,9 @@ layout: index
 [Návod](./Návod.md) (podstránky 3.,4.,5.)
 * **22.10. Nájdené témy, LaTeX, úvod k prezentáciám (všetci)**<br>
 [Návod](./Návod.md) (podstránky 6.,7.) •  [DÚ1](./DÚ1.md) • [Prezentácia 1](./Prezentácia_1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md) <!-- • [Oznamy](Oznamy_október.md) -->
-* **29.10. Prezentácie (aspoň 2)**<br>
-* **5.11. Seminár nebude**<br>
+* **29.10. Prezentácie (aspoň 2)**
+Siviček, Magát, Kováčová, Jánošík, Janitorová, Križanová<br>
+**5.11. Seminár nebude**<br>
 * **12.11. Seminár nebude**<br>
 * **19.11. Seminár nebude**<br>
 * **26.11. Výročná konferencia FMFI (seminár nebude)**<br>
