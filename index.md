@@ -18,16 +18,17 @@ layout: index
 [Návod](./Návod.md) (podstránky 6.,7.) •  [DÚ1](./DÚ1.md) • [Prezentácia 1](./Prezentácia_1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md) <!-- • [Oznamy](Oznamy_október.md) -->
 * **29.10. Prezentácie (aspoň 2)**
 Siviček, Magát, Kováčová, Jánošík, Janitorová, Križanová<br>
-**5.11. Seminár nebude**<br>
+* **5.11. Seminár nebude**<br>
 * **12.11. Seminár nebude**<br>
 * **19.11. Seminár nebude**<br>
 * **26.11. Výročná konferencia FMFI (seminár nebude)**<br>
-* **??.12. Prezentácie (aspoň 2)**<br>
-* **??.12. Prezentácie (aspoň 2)**<br>
+* **1.12. Prezentácie (aspoň 2)**<br>
+Diko, Fremal, Buček, Nemčík, Remiš, Bittara<br>
 * **3.12. Prezentácie (aspoň 2)**<br>
-* **??.12. Prezentácie (aspoň 2)**<br>
-* **??.12. Prezentácie (aspoň 2)**<br>
+Tanashchuk, Rusavskyi, Dovhosheia, Nemchenko, Dzacovský, Magát<br>
+* **8.12. Prezentácie (aspoň 2)**<br>
 * **10.12. Prezentácie (aspoň 2)**<br>
+* **17.12. Prezentácie (aspoň 2)**<br>
 * Kontrolné stretnutie cez skúškové obdobie
 
 #### Letný semester
