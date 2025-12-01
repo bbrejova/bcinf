@@ -25,10 +25,14 @@ Siviček, Magát, Kováčová, Jánošík, Janitorová, Križanová<br>
 * **1.12. Prezentácie (aspoň 2)**<br>
 Diko, Fremal, Buček, Nemčík, Remiš, Bittara<br>
 * **3.12. Prezentácie (aspoň 2)**<br>
-Tanashchuk, Rusavskyi, Dovhosheia, Nemchenko, Dzacovský, Magát<br>
+Rusavskyi, Dovhosheia, Nemchenko, Magát<br>
 * **8.12. Prezentácie (aspoň 2)**<br>
+Gottweis, Tanashchuk, Dzacovský, Petrenko, Duchyňa, Roch, Dujava, Bezák<br>
 * **10.12. Prezentácie (aspoň 2)**<br>
+Nemčík, Sudin, Havriuk, Rajnoha, Zeleňák, Vadovič<br> 
 * **17.12. Prezentácie (aspoň 2)**<br>
+Pashkouskaya, Ihnatovich, Shcherba, Britsova<br>
+
 * Kontrolné stretnutie cez skúškové obdobie
 
 #### Letný semester
