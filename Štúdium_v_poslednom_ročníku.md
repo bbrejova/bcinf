@@ -76,7 +76,7 @@ title: Štúdium v poslednom ročníku
 ### Ak sa vám nepodarí skončiť
 
   - [Školné](https://zona.fmph.uniba.sk/studenti-a-studium/poplatky/) pri prekročení štandardnej dĺžky štúdia 1500 EUR (2024/25)
-    prepočítava s apodľa počtu potrebných kreditov
+    prepočítava sa podľa počtu potrebných kreditov
   - Možnosť požiadať o
     [zníženie](https://zona.fmph.uniba.sk/studenti-a-studium/poplatky/)
     (zdravotné dôvody, sociálna situácia, zahraničné pobyty, prerušenie
@@ -86,6 +86,6 @@ title: Štúdium v poslednom ročníku
   - Ak bol študent na riadnom termíne štátnej skúšky hodnotený známkou
     FX, má právo na dva opravné termíny.
   - Opravné termíny štátnic a obhajob bývajú koncom augusta.
-      - Pozor, podmienkou absolvovania Bakalárskeho seminára (2) bude
+      - Pozor, podmienkou absolvovania Bakalárskeho seminára (2) je
         odovzdanie práce, v zásade teda nie je možné odovzdať prácu
         prvýkrát až pred augustovým termínom

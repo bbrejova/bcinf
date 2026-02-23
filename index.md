@@ -5,6 +5,26 @@ layout: index
 
 ### 1-INF-911, 1-INF-920
 
+
+#### Letný semester
+
+* **25.2. Úvod (všetci)**<br>
+[Oznamy](./Oznamy_február.md)
+* **4.3. Prezentácie** (aspoň 2)
+* **11.3. Prezentácie** (aspoň 2)
+* **18.3. Prezentácie** (aspoň 2)
+* **25.3. Prezentácie** (aspoň 2)
+* **1.4. Prezentácie** (aspoň 2)
+* **8.4. Prezentácie** (aspoň 2)
+* **15.4. Seminár nebude (ŠVK)**
+* **22.4. Kontrolné stretnutia**
+* **29.4. Kontrolné stretnutia**
+* **6.5. Voľno**
+* **13.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob**
+* **8-10.6.(predbežne)  Predobhajoby**
+
+
+
 #### Zimný semester
 
 * **24.9. Úvod k bakalárskej práci a k semináru (všetci)**<br>
@@ -27,46 +47,11 @@ Diko, Fremal, Buček, Nemčík, Remiš, Bittara<br>
 * **3.12. Prezentácie (aspoň 2)**<br>
 Rusavskyi, Dovhosheia, Nemchenko, Magát<br>
 * **8.12. Prezentácie (aspoň 2)**<br>
-Gottweis, Tanashchuk, Dzacovský, Petrenko, Duchyňa, Roch, Dujava, Bezák<br>
+Tanashchuk, Dzacovský, Petrenko, Duchyňa, Roch, Dujava, Bezák<br>
 * **10.12. Prezentácie (aspoň 2)**<br>
 Nemčík, Sudin, Havriuk, Rajnoha, Zeleňák, Vadovič<br> 
 * **17.12. Prezentácie (aspoň 2)**<br>
-Pashkouskaya, Ihnatovich, Shcherba, Britsova<br>
+Gottweis, Pashkouskaya, Ihnatovich, Shcherba, Britsova<br>
 
 * Kontrolné stretnutie cez skúškové obdobie
-
-#### Letný semester
-
-<!--* **19.2. Úvod (všetci)**<br>
-[Oznamy](./Oznamy_február.md)
-* **26.2.** Voľno
-* **5.3. Prezentácie** (aspoň 2)
-Bruha, Bukhoiarov, Heldák, Hošták, Bucher, Rybárová 
-* **12.3. Prezentácie** (aspoň 2)
-Farnbauer, Kovalov, Haščík, Pukhtaievych, Makuch, Regeš, Tuch 
-* **19.3. Prezentácie** (aspoň 2)
-Gurová, Lukáčik, Osadský, Pištek, Rohaľ, Zrubák, Lukáč, Ončák
-* **26.3. Prezentácie** (aspoň 2)
-Amosová, Barančok, Krupa, Škorňák, Sládek, Biriukova, 
-* **2.4. Prezentácie** (aspoň 2)
-Andraščík, Drobný, Komoráš, Krajčíová, Senderák, Podhradský
-* **9.4. Seminár nebude (ŠVK)**
-* **16.4. Kontrolné stretnutia**
-* **23.4. Kontrolné stretnutia**
-* **30.4. Voľno** 
-* **7.5. Voľno**
-* **14.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob**
-* **9.6. 9:00 Predobhajoby**
-Farnbauer, Lukáčik, Osadský, Makúch, Krupa
-* **9.6. 12:30 Predobhajoby**
-Bucher, Hošták, Drobný, Komoráš, Senderák
-* **10.6. 9:00 Predobhajoby**
-Podhradský,  Škorňák,  Amosová,  Tuch,  Heldák
-* **10.6. 12:30 Predobhajoby**
-Ončák, Pištek, Zrubák, Biriukova, Regeš
-* **11.6. 9:00 Predobhajoby**
-Rybárová, Bukhtoiarov, Haščík, Barančok, Pukhtaievych
-* **11.6. 12:30 Predobhajoby**
-Rohaľ, Bruha, Kovalov, Lukáč, Krajčiová
--->
 
