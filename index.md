@@ -10,12 +10,18 @@ layout: index
 
 * **25.2. Úvod (všetci)**<br>
 [Oznamy](./Oznamy_február.md)
-* **4.3. Prezentácie** (aspoň 2)
-* **11.3. Prezentácie** (aspoň 2)
-* **18.3. Prezentácie** (aspoň 2)
-* **25.3. Prezentácie** (aspoň 2)
-* **1.4. Prezentácie** (aspoň 2)
-* **8.4. Prezentácie** (aspoň 2)
+* **4.3. Prezentácie** (aspoň 2)<br>
+Gurová, Krupa, Maltsev, Šouc, Tkáčik, Siviček
+* **11.3. Prezentácie** (aspoň 2)<br>
+Janitorová, Jánošík, Križanová, Kováčová, Diko, Sudin
+* **18.3. Prezentácie** (aspoň 2)<br>
+Fremal, Buček, Nemčík, Remiš, Bittara, Gottweis
+* **25.3. Prezentácie** (aspoň 2)<br>
+Rusavskyi, Tanashchuk, Dovhosheia, Magát, Džačovský, Petrenko
+* **1.4. Prezentácie** (aspoň 2)<br>
+Duchyňa, Roch, Dujava, Bezák, Havriuk, Rajnoha
+* **8.4. Prezentácie** (aspoň 2)<br>
+Zeleňák, Vadovič, Britsova, Pashkouskaya, Ihnatovich, Shcherba
 * **15.4. Seminár nebude (ŠVK)**
 * **22.4. Kontrolné stretnutia**
 * **29.4. Kontrolné stretnutia**
