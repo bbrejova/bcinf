@@ -11,9 +11,9 @@ layout: index
 * **25.2. Úvod (všetci)**<br>
 [Oznamy](./Oznamy_február.md)
 * **4.3. Prezentácie** (aspoň 2)<br>
-Gurová, Krupa, Maltsev, Šouc, Tkáčik, Siviček
+Krupa, Maltsev, Šouc, Tkáčik, Siviček
 * **11.3. Prezentácie** (aspoň 2)<br>
-Janitorová, Jánošík, Križanová, Kováčová, Diko, Sudin
+Gurová, Janitorová, Jánošík, Križanová, Kováčová, Diko, Sudin
 * **18.3. Prezentácie** (aspoň 2)<br>
 Fremal, Buček, Nemčík, Remiš, Bittara, Gottweis
 * **25.3. Prezentácie** (aspoň 2)<br>
