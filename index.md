@@ -13,9 +13,9 @@ layout: index
 * **4.3. Prezentácie** (aspoň 2)<br>
 Krupa, Maltsev, Šouc, Tkáčik, Siviček
 * **11.3. Prezentácie** (aspoň 2)<br>
-Gurová, Janitorová, Jánošík, Križanová, Kováčová, Diko, Sudin
+Janitorová, Jánošík, Križanová, Kováčová, Diko, Sudin
 * **18.3. Prezentácie** (aspoň 2)<br>
-Fremal, Buček, Nemčík, Remiš, Bittara, Gottweis
+Gurová, Fremal, Buček, Nemčík, Remiš, Bittara, Gottweis
 * **25.3. Prezentácie** (aspoň 2)<br>
 Rusavskyi, Tanashchuk, Dovhosheia, Magát, Džačovský, Petrenko
 * **1.4. Prezentácie** (aspoň 2)<br>
