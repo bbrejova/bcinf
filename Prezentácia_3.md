@@ -11,8 +11,8 @@ Cez skúškové obdobie (po odovzdaní prác) sa bude konať prezentácia 3
 slúžiaca ako nácvik obhajob, kde každý študent prezentuje svoju prácu
 a odpovedá na otázky z publika.
 
-  - Povinná účasť na celom jednom bloku prezentácií (cca 5 študentov,
-    2-2,5 hodiny), príďte načas
+  - Povinná účasť na celom jednom bloku prezentácií (cca 5-8 študentov,
+    2-3 hodiny), príďte načas
   - 15 minút prezentácia, potom otázky, komentáre k prezentácii
   - Ak máte špeciálne požiadavky, prineste si notebook (ale odovzdajte
     aj pdf)
@@ -25,4 +25,4 @@ a odpovedá na otázky z publika.
   - Ak zo závažných príčin nemôžete na vašu prezentáciu prísť, tiež nám
     dajte vedieť čím skôr
   - Rady k príprave prezentácie [v
-    návode](./Obhajoba,_prezent%C3%A1cia_vlastn%C3%BDch_v%C3%BDsledkov.md)
+    návode](./Obhajoba,_prezent%C3%A1cia_vlastn%C3%BDch_v%C3%BDsledkov.html)
