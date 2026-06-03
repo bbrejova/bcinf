@@ -28,14 +28,14 @@ Zeleňák, Vadovič, Britsova, Pashkouskaya, Ihnatovich, Shcherba
 * **6.5. Voľno**
 * **13.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob**
 * **4.6. Predobhajoby (M-IV)**<br>
-Buček, Diko, Fremal, Gottweis, Kováčová, Maltsev, Nemčík, Rusavskyi, Siviček, Sudin,
-Tanashchuk
+9:00 Fremal, Maltsev, Rusavskyi, Tanashchuk, Siviček<BR> 
+12:00 Buček, Diko, Gottweis, Kováčová, Nemčík, Sudin
 * **8.6. Predobhajoby (M-III)**<br>
-Bezák, Bittara, Dovhosheia, Duchyňa, Dujava, Gurová, Havriuk, Krupa, Magát, Petrenko
+9:00 Bezák, Gurová, Havriuk, Bittara, Petrenko<BR>
+12:00 Dovhosheia, Duchyňa, Magát, Dujava, Krupa
 * **9.6. Predobhajoby (M-III)**<br>
-Britsova, Ihnatovich, Janitorová, Jánoščík, Križanová, Pashkouskaya, Rajnoha, Roch,
-Shcherba, Vadovič
-
+9:00 Janitorová, Jánoščík, Križanová, Roch, Vadovič<BR> 
+12:00 Britsova, Pashkouskaya, Shcherba, Ihnatovich, Rajnoha
 
 #### Zimný semester
 
